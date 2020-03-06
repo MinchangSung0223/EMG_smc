@@ -1,17 +1,28 @@
 # EMG_smc
 
-Ubuntu 설치방법
 
-1.Ubuntu 18.04 iso파일을 받는다.
+
+##1.Ubuntu 18.04 iso파일을 받는다.
+
+
    http://mirror.kakao.com/ubuntu-releases/bionic/ubuntu-18.04.3-desktop-amd64.iso
 
 
-2.Install Rufus(boot util)
+#2.Install Rufus(boot util)
+
+
    https://rufus.ie/
    
 Rufus는 usb를 부팅 드라이브로 만들어 주는 프로그램이다. 
 Rufus를 설치후 실행한다.
+
+https://hiseon.me/linux/ubuntu/ubuntu-install-usb/
+를 참고하여 ubuntu 18.04가 설치된 부팅 usb를 만든다.  용량은 8gb이상으로 준비 
+
+
 3.NVIDIA driver install
+
+
   https://www.nvidia.com/Download/Find.aspx?lang=en-us
  
    그래픽카드에 알맞는 NVIDIA DRIVER 설치
